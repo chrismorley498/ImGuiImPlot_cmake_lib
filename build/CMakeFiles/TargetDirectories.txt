@@ -1,0 +1,4 @@
+/home/chrismorley/code/dev-ws-chris/src/plotting_practice/build/CMakeFiles/plotting_lib.dir
+/home/chrismorley/code/dev-ws-chris/src/plotting_practice/build/CMakeFiles/test_exe.dir
+/home/chrismorley/code/dev-ws-chris/src/plotting_practice/build/CMakeFiles/edit_cache.dir
+/home/chrismorley/code/dev-ws-chris/src/plotting_practice/build/CMakeFiles/rebuild_cache.dir

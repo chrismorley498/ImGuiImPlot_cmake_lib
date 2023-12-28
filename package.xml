@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>plotting_lib</name>
+  <version>0.1.0</version>
+  <description>Static ImGUI + ImPlot</description>
+
+  <!-- Maintainers and Authors -->
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <!-- Dependencies -->
+  <buildtool_depend>colcon</buildtool_depend>
+
+</package>
